@@ -1,0 +1,2 @@
+code from https://github.com/arangodb/interactive_tutorials/blob/master/notebooks/example_output/WordEmbeddings_output.ipynb
+I changed the database connection from ArangoDB on the cloud to running ArangoDB in a Docker container locally.
